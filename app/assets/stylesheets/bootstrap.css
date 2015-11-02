@@ -6582,3 +6582,8 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.intro-header {
+  background: image-url(home-bg.jpg);
+}
+
